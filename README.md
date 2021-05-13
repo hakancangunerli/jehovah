@@ -1,10 +1,10 @@
 ## badges
 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
-## tcs-python
+## tcs-java
 
-here are my python lectures while teaching at thecoderschool
+here are my java lectures while teaching at thecoderschool
 
 ## Installation
 
@@ -13,8 +13,7 @@ git clone <address>
 
 run by
 
-pip -r requirements.txt
-python3 <foldername>/<filename>
+java <foldername>/<filename>
 ```
 
 ## Authors
